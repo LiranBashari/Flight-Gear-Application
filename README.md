@@ -1,5 +1,5 @@
 # Flight-Gear-Application
-# Explanation of the project
+**Explanation of the project**
 
 In this project, an application was built that will allow us to display flight data on a dedicated simulator and study them. Our users are flight researchers or pilots who want to view data, sampled at a certain rate during a flight.
 The flight data includes the steering mode, speed, altitude direction, etc., and are recorded into a text file, which can be loaded in our app. The app will play the data like a movie from the beginning of the recording until the end, it will graphically display the plane in relation to the earth, the rudder position, and additional flight data in a number of different views, including a view designed to find anomalies in the data.
